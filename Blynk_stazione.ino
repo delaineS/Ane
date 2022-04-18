@@ -1,3 +1,5 @@
+//use esp v 2.5.2
+
 #include <ESP8266WiFi.h>
 #include "DHT.h"
 #include <Wire.h>
